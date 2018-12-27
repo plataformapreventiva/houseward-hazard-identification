@@ -8,16 +8,16 @@ inform <- tbl(con, dbplyr::in_schema('models','inform_index_municipios')) %>%
   dplyr::select(cve_muni,ranking,amenazas_y_exposicion,gp_inundac,fenomeno_hidrometeorologico) %>% 
   filter(gp_inundac==100) %>% retrieve_result()
 
-cves <- inform$cve_muni[1:20]
+cves <- inform$cve_muni[1:25]
 
-# Obtención de las georreferencias de los hogares de los 20 municipios obtenidos
+# Obtención de las georreferencias de los hogares de los 25 municipios obtenidos
 
 cuis <- tbl(con, dbplyr::in_schema('raw','cuis_historico_domicilio')) %>% 
   dplyr::select(llave_hogar_h,cve_muni,longitud,latitud) %>%
   mutate(cve_muni=as.character(cve_muni),latitud=as.numeric(latitud),longitud=as.numeric(longitud)) %>% 
   filter(cve_muni %in% cves) 
 
-# Obtención de los indicadores de carencias de los hogares de los 20 municipios obtenidos
+# Obtención de los indicadores de carencias de los hogares de los 25 municipios obtenidos
 sifode <- tbl(con, dbplyr::in_schema('raw','sifode_domicilio')) %>% 
   dplyr::select(llave_hogar_h,ic_rezedu_1,ic_asalud,ic_ss,ic_cv,ic_sbv,ic_ali,pob_lbm,pob_lb)  
 
@@ -28,7 +28,7 @@ domicilios <- left_join(cuis,sifode,by='llave_hogar_h') %>%
   summarise(n=n()) %>% collect()
 
 
-# Distribución de carencias para los 20 municipios
+# Distribución de carencias para los 25 municipios
 
 par(mfrow=c(2,4))
 barplot(table(domicilios$ic_rezedu_1), main = "Rezago educativo",col ="gray",xlab="Presenta o no",ylab="Número de hogares")

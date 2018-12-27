@@ -54,16 +54,16 @@ http://www.beta.inegi.org.mx/temas/mapas/hidrografia/
 * Replicar el proceso para el resto de los municipios del país y el resto de amenazas naturales. Para esto es necesario saber qué características o variables hacen más vulnerable un hogar frente a cada fenómeno.
 
 ## Referencias
-[1] PNUD/ONU Medio Ambiente. 2018. Índice de Vulnerabilidad ante Choques Climáticos: Lecciones aprendidas y sis- tematización del proceso de diseño y aplicación del IVACC en República Do- minicana. Ciudad de Panamá: Panamá.
+* [1] PNUD/ONU Medio Ambiente. 2018. Índice de Vulnerabilidad ante Choques Climáticos: Lecciones aprendidas y sis- tematización del proceso de diseño y aplicación del IVACC en República Do- minicana. Ciudad de Panamá: Panamá.
 http://www.do.undp.org/content/dam/dominican_republic/docs/medioambiente/publicaciones/pnud_do_IVACC%20RD.pdf
-[2] Blaikie, P., Cannon, T., Davis, I. & Wisner, B. (2003). At Risk. Natural hazards, people´s vulnerability and disasters. London: Routledge. 
-[3] Cartel de Inundaciones. CENAPRED. Sitio web: https://www.cenapred.gob.mx/es/Publicaciones/images/104-CARTELINUNDACIONES.JPG
-[4] Federación 1999. Serie Es mejor Prevenir… Folleto 1: La Prevención de los Desastres. Sitio web:
+* [2] Blaikie, P., Cannon, T., Davis, I. & Wisner, B. (2003). At Risk. Natural hazards, people´s vulnerability and disasters. London: Routledge. 
+* [3] Cartel de Inundaciones. CENAPRED. Sitio web: https://www.cenapred.gob.mx/es/Publicaciones/images/104-CARTELINUNDACIONES.JPG
+* [4] Federación 1999. Serie Es mejor Prevenir… Folleto 1: La Prevención de los Desastres. Sitio web:
 http://www.disaster.info.desastres.net/federacion/spa/folleto1.htm#t_2.
-[5] Hidrología de superficie y precipitaciones intensas 2005 en el estado de Veracruz. Sitio web: http://www.iingen.unam.mx/es-mx/Publicaciones/Libros/LibroInundaciones2005/06.pdf
-[6] Inundaciones. CENAPRED. Sitio web: https://www.cenapred.gob.mx/es/Publicaciones/archivos/3-FASCCULOINUNDACIONES.PDF
-[7] Indicadores de carencia social. CONEVAL. Sitio web: https://www.coneval.org.mx/Medicion/Paginas/Medición/Indicadores-de-carencia-social.aspx
-[8] Mapas hidrografía. INEGI. Sitio web: http://www.beta.inegi.org.mx/temas/mapas/hidrografia
-[9] Marin-Ferrer, M., Vernaccini, L. and Poljansek, K., (2017) Index for Risk Management INFORM Concept and Methodology Report — Version 2017, EUR 28655 EN, doi:10.2760/094023
-[10] Riesgo de inundaciones. Módulos Universitarios en ciencia del Desarrollo Sostenible (MOUDS).
+* [5] Hidrología de superficie y precipitaciones intensas 2005 en el estado de Veracruz. Sitio web: http://www.iingen.unam.mx/es-mx/Publicaciones/Libros/LibroInundaciones2005/06.pdf
+* [6] Inundaciones. CENAPRED. Sitio web: https://www.cenapred.gob.mx/es/Publicaciones/archivos/3-FASCCULOINUNDACIONES.PDF
+* [7] Indicadores de carencia social. CONEVAL. Sitio web: https://www.coneval.org.mx/Medicion/Paginas/Medición/Indicadores-de-carencia-social.aspx
+* [8] Mapas hidrografía. INEGI. Sitio web: http://www.beta.inegi.org.mx/temas/mapas/hidrografia
+* [9] Marin-Ferrer, M., Vernaccini, L. and Poljansek, K., (2017) Index for Risk Management INFORM Concept and Methodology Report — Version 2017, EUR 28655 EN, doi:10.2760/094023
+* [10] Riesgo de inundaciones. Módulos Universitarios en ciencia del Desarrollo Sostenible (MOUDS).
 Sitio web: http://www.desenvolupamentsostenible.org/es/los-riesgos-naturales/3-concepto-y-tipo-de-riesgo/3-7-riesgo-de-inundaciones/3-7-4-causas-que-provocan-las-inundaciones
